@@ -1,5 +1,5 @@
 Once you log-in to your VM make sure
-1. You check cognizant proxy is setup correctly in Internet Explorer & "Bypass proxy Server for Local addresses" is checked
+1. You check proxy is setup correctly in Internet Explorer & "Bypass proxy Server for Local addresses" is checked
 
 2. Give yourself "Full Control" on the folder C:\Training\DotNet (and all its sub folders - should be by default)
 
