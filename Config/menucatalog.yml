@@ -1,0 +1,8 @@
+eureka:
+  client:
+    shouldFetchRegistry: false
+  instance:
+    port: 51219
+    hostName: localhost
+MySQL:
+  ConnectionString: server=127.0.0.1;userid=sa;pwd=P@ssword!;port=3306;sslmode=none;database=menus

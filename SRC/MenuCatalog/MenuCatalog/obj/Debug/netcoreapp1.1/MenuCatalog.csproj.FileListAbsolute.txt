@@ -1,0 +1,10 @@
+C:\Training\DotNet\SRC\MenuCatalog\MenuCatalog\bin\Debug\netcoreapp1.1\MenuCatalog.deps.json
+C:\Training\DotNet\SRC\MenuCatalog\MenuCatalog\bin\Debug\netcoreapp1.1\MenuCatalog.runtimeconfig.json
+C:\Training\DotNet\SRC\MenuCatalog\MenuCatalog\bin\Debug\netcoreapp1.1\MenuCatalog.runtimeconfig.dev.json
+C:\Training\DotNet\SRC\MenuCatalog\MenuCatalog\bin\Debug\netcoreapp1.1\MenuCatalog.dll
+C:\Training\DotNet\SRC\MenuCatalog\MenuCatalog\obj\Debug\netcoreapp1.1\MenuCatalog.csprojResolveAssemblyReference.cache
+C:\Training\DotNet\SRC\MenuCatalog\MenuCatalog\obj\Debug\netcoreapp1.1\MenuCatalog.AssemblyInfo.cs
+C:\Training\DotNet\SRC\MenuCatalog\MenuCatalog\bin\Debug\netcoreapp1.1\Certs\IdentityServer4Auth.cer
+C:\Training\DotNet\SRC\MenuCatalog\MenuCatalog\bin\Debug\netcoreapp1.1\MenuCatalog.pdb
+C:\Training\DotNet\SRC\MenuCatalog\MenuCatalog\obj\Debug\netcoreapp1.1\MenuCatalog.dll
+C:\Training\DotNet\SRC\MenuCatalog\MenuCatalog\obj\Debug\netcoreapp1.1\MenuCatalog.pdb

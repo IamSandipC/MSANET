@@ -1,0 +1,10 @@
+C:\Training\DotNet\SRC\MenuCatalog\AuthService\bin\Debug\netcoreapp1.1\AuthService.deps.json
+C:\Training\DotNet\SRC\MenuCatalog\AuthService\bin\Debug\netcoreapp1.1\AuthService.runtimeconfig.json
+C:\Training\DotNet\SRC\MenuCatalog\AuthService\bin\Debug\netcoreapp1.1\AuthService.runtimeconfig.dev.json
+C:\Training\DotNet\SRC\MenuCatalog\AuthService\bin\Debug\netcoreapp1.1\AuthService.dll
+C:\Training\DotNet\SRC\MenuCatalog\AuthService\bin\Debug\netcoreapp1.1\AuthService.pdb
+C:\Training\DotNet\SRC\MenuCatalog\AuthService\obj\Debug\netcoreapp1.1\AuthService.csprojResolveAssemblyReference.cache
+C:\Training\DotNet\SRC\MenuCatalog\AuthService\obj\Debug\netcoreapp1.1\AuthService.AssemblyInfo.cs
+C:\Training\DotNet\SRC\MenuCatalog\AuthService\obj\Debug\netcoreapp1.1\AuthService.dll
+C:\Training\DotNet\SRC\MenuCatalog\AuthService\obj\Debug\netcoreapp1.1\AuthService.pdb
+C:\Training\DotNet\SRC\MenuCatalog\AuthService\bin\Debug\netcoreapp1.1\Certs\IdentityServer4Auth.pfx

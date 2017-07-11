@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuCatalog", "MenuCatalog\MenuCatalog.csproj", "{CC4AAD05-26E3-4B68-B043-0336BE0428B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuRecommendation", "MenuRecommendation\MenuRecommendation.csproj", "{A09F56A6-4E5A-4C84-8D91-588168FB1BCE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Config", "Config", "{F912D8D7-C436-4821-A19B-10C8DA497158}"
+	ProjectSection(SolutionItems) = preProject
+		Config\application.yml = Config\application.yml
+		Config\menucatalog.yml = Config\menucatalog.yml
+		Config\menurecommendation.yml = Config\menurecommendation.yml
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthService", "AuthService\AuthService.csproj", "{4098CD78-113F-4B85-857B-610AFA5C8B9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC4AAD05-26E3-4B68-B043-0336BE0428B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC4AAD05-26E3-4B68-B043-0336BE0428B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC4AAD05-26E3-4B68-B043-0336BE0428B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC4AAD05-26E3-4B68-B043-0336BE0428B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A09F56A6-4E5A-4C84-8D91-588168FB1BCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A09F56A6-4E5A-4C84-8D91-588168FB1BCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A09F56A6-4E5A-4C84-8D91-588168FB1BCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A09F56A6-4E5A-4C84-8D91-588168FB1BCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4098CD78-113F-4B85-857B-610AFA5C8B9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4098CD78-113F-4B85-857B-610AFA5C8B9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4098CD78-113F-4B85-857B-610AFA5C8B9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4098CD78-113F-4B85-857B-610AFA5C8B9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

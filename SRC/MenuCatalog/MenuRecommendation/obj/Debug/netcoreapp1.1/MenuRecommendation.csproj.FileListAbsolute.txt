@@ -1,0 +1,10 @@
+C:\Training\DotNet\SRC\MenuCatalog\MenuRecommendation\bin\Debug\netcoreapp1.1\MenuRecommendation.deps.json
+C:\Training\DotNet\SRC\MenuCatalog\MenuRecommendation\bin\Debug\netcoreapp1.1\MenuRecommendation.runtimeconfig.json
+C:\Training\DotNet\SRC\MenuCatalog\MenuRecommendation\bin\Debug\netcoreapp1.1\MenuRecommendation.runtimeconfig.dev.json
+C:\Training\DotNet\SRC\MenuCatalog\MenuRecommendation\bin\Debug\netcoreapp1.1\MenuRecommendation.dll
+C:\Training\DotNet\SRC\MenuCatalog\MenuRecommendation\obj\Debug\netcoreapp1.1\MenuRecommendation.csprojResolveAssemblyReference.cache
+C:\Training\DotNet\SRC\MenuCatalog\MenuRecommendation\obj\Debug\netcoreapp1.1\MenuRecommendation.AssemblyInfo.cs
+C:\Training\DotNet\SRC\MenuCatalog\MenuRecommendation\bin\Debug\netcoreapp1.1\Certs\IdentityServer4Auth.cer
+C:\Training\DotNet\SRC\MenuCatalog\MenuRecommendation\bin\Debug\netcoreapp1.1\MenuRecommendation.pdb
+C:\Training\DotNet\SRC\MenuCatalog\MenuRecommendation\obj\Debug\netcoreapp1.1\MenuRecommendation.dll
+C:\Training\DotNet\SRC\MenuCatalog\MenuRecommendation\obj\Debug\netcoreapp1.1\MenuRecommendation.pdb

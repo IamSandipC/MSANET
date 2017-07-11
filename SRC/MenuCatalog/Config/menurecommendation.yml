@@ -1,0 +1,5 @@
+eureka:
+  client:
+    shouldRegisterWithEureka: false
+Services:
+  MenuCatalog: "http://menucatalog/api/menus"
